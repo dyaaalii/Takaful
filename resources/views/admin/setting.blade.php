@@ -41,34 +41,34 @@
                                             <a class="nav-link" id="cookie-tab" data-toggle="tab" href="#cookieTab" role="tab" aria-controls="cookieTab" aria-selected="true">{{__('admin.Cookie Consent')}}</a>
                                         </li>
 
-                                        <li class="nav-item border rounded mb-1">
-                                            <a class="nav-link" id="recaptcha-tab" data-toggle="tab" href="#recaptchaTab" role="tab" aria-controls="recaptchaTab" aria-selected="true">{{__('admin.Google Recaptcha')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1">-->
+                                        <!--    <a class="nav-link" id="recaptcha-tab" data-toggle="tab" href="#recaptchaTab" role="tab" aria-controls="recaptchaTab" aria-selected="true">{{__('admin.Google Recaptcha')}}</a>-->
+                                        <!--</li>-->
 
-                                        <li class="nav-item border rounded mb-1 d-none">
-                                            <a class="nav-link" id="pusher-tab" data-toggle="tab" href="#pusherTab" role="tab" aria-controls="pusherTab" aria-selected="true">{{__('admin.Pusher Credential')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1 d-none">-->
+                                        <!--    <a class="nav-link" id="pusher-tab" data-toggle="tab" href="#pusherTab" role="tab" aria-controls="pusherTab" aria-selected="true">{{__('admin.Pusher Credential')}}</a>-->
+                                        <!--</li>-->
 
 
-                                        <li class="nav-item border rounded mb-1">
-                                            <a class="nav-link" id="tawk-chat-tab" data-toggle="tab" href="#tawkChatTab" role="tab" aria-controls="tawkChatTab" aria-selected="true">{{__('admin.Tawk Chat')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1">-->
+                                        <!--    <a class="nav-link" id="tawk-chat-tab" data-toggle="tab" href="#tawkChatTab" role="tab" aria-controls="tawkChatTab" aria-selected="true">{{__('admin.Tawk Chat')}}</a>-->
+                                        <!--</li>-->
 
-                                        <li class="nav-item border rounded mb-1">
-                                            <a class="nav-link" id="google-analytic-tab" data-toggle="tab" href="#googleAnalyticTab" role="tab" aria-controls="googleAnalyticTab" aria-selected="true">{{__('admin.Google Analytic')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1">-->
+                                        <!--    <a class="nav-link" id="google-analytic-tab" data-toggle="tab" href="#googleAnalyticTab" role="tab" aria-controls="googleAnalyticTab" aria-selected="true">{{__('admin.Google Analytic')}}</a>-->
+                                        <!--</li>-->
 
-                                        <li class="nav-item border rounded mb-1">
-                                            <a class="nav-link" id="custom-pagination-tab" data-toggle="tab" href="#customPaginationTab" role="tab" aria-controls="customPaginationTab" aria-selected="true">{{__('admin.Custom Pagination')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1">-->
+                                        <!--    <a class="nav-link" id="custom-pagination-tab" data-toggle="tab" href="#customPaginationTab" role="tab" aria-controls="customPaginationTab" aria-selected="true">{{__('admin.Custom Pagination')}}</a>-->
+                                        <!--</li>-->
 
-                                        <li class="nav-item border rounded mb-1">
-                                            <a class="nav-link" id="social-login-tab" data-toggle="tab" href="#socialLoginTab" role="tab" aria-controls="socialLoginTab" aria-selected="true">{{__('admin.Social Login')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1">-->
+                                        <!--    <a class="nav-link" id="social-login-tab" data-toggle="tab" href="#socialLoginTab" role="tab" aria-controls="socialLoginTab" aria-selected="true">{{__('admin.Social Login')}}</a>-->
+                                        <!--</li>-->
 
-                                        <li class="nav-item border rounded mb-1">
-                                            <a class="nav-link" id="facebook-pixel-tab" data-toggle="tab" href="#facebookPixelTab" role="tab" aria-controls="facebookPixelTab" aria-selected="true">{{__('admin.Facebook Pixel')}}</a>
-                                        </li>
+                                        <!--<li class="nav-item border rounded mb-1">-->
+                                        <!--    <a class="nav-link" id="facebook-pixel-tab" data-toggle="tab" href="#facebookPixelTab" role="tab" aria-controls="facebookPixelTab" aria-selected="true">{{__('admin.Facebook Pixel')}}</a>-->
+                                        <!--</li>-->
 
                                     </ul>
                                 </div>
