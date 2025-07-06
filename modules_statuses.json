@@ -1,0 +1,5 @@
+{
+    "PaymentGateway": true,
+    "Subscription": true,
+    "CustomStorage": true
+}
